@@ -1,0 +1,13 @@
+pandas
+re
+contractions
+nltk
+tqdm
+unicodedata
+scikit-learn
+matplotlib
+seaborn
+xgboost
+rapidfuzz
+spacy
+sentence-transformers
