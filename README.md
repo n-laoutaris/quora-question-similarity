@@ -1,6 +1,6 @@
 # Quora Question Pair Similarity Detection
 
-Identify whether two questions mean the same thing — even if they don’t use the same words.
+The objective of this project is to build a predictive model that can correctly determine if two questions are duplicates, using a combination of engineered textual features and advanced language representations.
 
 ![Visual](./images/nlp_visual.png)
 
@@ -52,7 +52,9 @@ Misclassification analysis was conducted to draw insights about data quality and
 
 ## Repository Contents
 
-
+- EDA - Preprocessing Notebook.ipynb: Exploratory Data Analysis (EDA) and text cleaning notebook. This notebook generates the cleaned dataset.
+- NLP Notebook.ipynb: Main notebook. Uses the cleaned data produced by the EDA notebook.
+- requirements.txt: List of required Python packages for running both notebooks.
 
 ## Project Context
 
