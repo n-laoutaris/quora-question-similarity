@@ -55,6 +55,7 @@ Misclassification analysis was conducted to draw insights about data quality and
 - `EDA - Preprocessing Notebook.ipynb`: Exploratory Data Analysis (EDA) and text cleaning notebook. This notebook generates the cleaned dataset.
 - `NLP Notebook.ipynb`: Main notebook. Uses the cleaned data produced by the EDA notebook.
 - `requirements.txt`: List of required Python packages for running both notebooks.
+- `Report.pdf`: A written report describing the project in full detail.
 
 ## Project Context
 
